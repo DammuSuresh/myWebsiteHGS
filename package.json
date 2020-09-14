@@ -11,7 +11,7 @@
         "e2e": "ng e2e"
         
     },
-    "homepage": "https://dammusuresh.github.io/mywebsite",
+    "homepage": "https://dammusuresh.github.io/myWebsiteHGS",
     "private": true,
     "dependencies": {
         "@angular/animations": "~9.1.9",
